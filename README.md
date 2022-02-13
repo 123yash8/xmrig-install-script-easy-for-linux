@@ -7,3 +7,14 @@ give stars if it helps.
 
 
 Usage 
+just copy paste code below 
+
+git clone https://github.com/123yash8/xmrig-install-script-easy-for-linux.git
+cd xmrig-install-script-easy-for-linux
+chmod +x *
+./run-xmrig.sh
+
+Script modification
+change the wallet address to your address
+and change coin name
+script is persistant
