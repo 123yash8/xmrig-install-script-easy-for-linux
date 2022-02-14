@@ -1,6 +1,7 @@
 sudo apt update  
 sudo apt-get install git build-essential cmake automake libtool autoconf tmux -y
 cd
+sudo unset http_proxy
  git clone https://github.com/xmrig/xmrig.git
  mkdir xmrig/build && cd xmrig/scripts
  ./build_deps.sh && cd ../build
