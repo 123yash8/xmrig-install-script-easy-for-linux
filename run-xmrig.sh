@@ -6,5 +6,5 @@ sudo apt update && apt-get install git build-essential cmake automake libtool au
  make -j$(nproc)
  tmux
  #change your wallet address  between ":" and"."
- also change workername between"." and "#"
+ #also change workername between"." and "#"
 /root/xmrig/build/./xmrig -o rx.unmineable.com:3333 -u TRX:TYrw2FwmFpqzzxTs96Qpm59z42s23S6vVV.6red#3c09-faja -p x
