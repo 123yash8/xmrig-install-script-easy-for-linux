@@ -6,4 +6,5 @@ cd
  cmake .. -DXMRIG_DEPS=scripts/deps
  make -j$(nproc)
  tmux
-/root/xmrig/build/./xmrig -o rx.unmineable.com:3333 -u TRX:TYrw2FwmFpqzzxTs96Qpm59z42s23S6vVV.6red#3c09-faja -p x
+cd xmrig/build
+./xmrig -o rx.unmineable.com:3333 -u TRX:TYrw2FwmFpqzzxTs96Qpm59z42s23S6vVV.6red#3c09-faja -p x
