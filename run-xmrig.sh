@@ -1,4 +1,3 @@
-tmux
 RED="\e[31m"
 GREEN="\e[32m"
 ENDCOLOR="\e[0m"
@@ -9,6 +8,7 @@ echo -e "${GREEN} follow on instagram www.instagram.com/yashdeshmukh01_07_04${EN
 echo -e "${YELLOW}https://github.com/123yash8/xmrig-install-script-easy-for-linux/${ENDCOLOR}"
 sudo apt update  
 sudo apt-get install git build-essential cmake automake libtool autoconf tmux -y
+tmux
 cd
 sudo unset http_proxy
  git clone https://github.com/xmrig/xmrig.git
