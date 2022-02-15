@@ -14,6 +14,8 @@ just copy paste code below
 
 -----------------------------------------------------------------------------------------------------------------------
 
+apt install git
+
 git clone https://github.com/123yash8/xmrig-install-script-easy-for-linux.git
 
 cd xmrig-install-script-easy-for-linux
