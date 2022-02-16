@@ -21,6 +21,6 @@ echo Your coin name please:-
 read coin
 echo your wallet address:-
 read wallet
-echo your worker name (put any no):-
+echo your worker name put any no:-
 read work
 ./xmrig -o rx.unmineable.com:3333 -u $coin:$wallet.$work#3c09-faja -p x
