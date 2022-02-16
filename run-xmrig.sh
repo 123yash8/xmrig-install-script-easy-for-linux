@@ -8,7 +8,7 @@ echo -e "${GREEN}                  follow on instagram www.instagram.com/yashdes
 echo -e "${YELLOW}         https://github.com/123yash8/xmrig-install-script-easy-for-linux/        ${ENDCOLOR}"
 sudo apt update  
 sudo apt-get install git build-essential cmake automake libtool autoconf  tmux -y
-tmux
+
 cd
  git clone https://github.com/xmrig/xmrig.git
  mkdir xmrig/build && cd xmrig/scripts
