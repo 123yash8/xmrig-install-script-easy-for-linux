@@ -3,9 +3,9 @@ GREEN="\e[32m"
 ENDCOLOR="\e[0m"
 YELLOW="\e[33m"
 ########
-echo -e "${RED}Tool made by yash Deshmukh ${ENDCOLOR}" 
-echo -e "${GREEN} follow on instagram www.instagram.com/yashdeshmukh01_07_04${ENDCOLOR}"
-echo -e "${YELLOW}https://github.com/123yash8/xmrig-install-script-easy-for-linux/${ENDCOLOR}"
+echo -e "${RED}                   Tool made by yash Deshmukh              ${ENDCOLOR}" 
+echo -e "${GREEN}                  follow on instagram www.instagram.com/yashdeshmukh01_07_04      ${ENDCOLOR}"
+echo -e "${YELLOW}         https://github.com/123yash8/xmrig-install-script-easy-for-linux/        ${ENDCOLOR}"
 sudo apt update  
 sudo apt-get install git build-essential cmake automake libtool autoconf  tmux -y
 tmux
