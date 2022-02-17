@@ -25,12 +25,3 @@ chmod +x *
 ./run-xmrig.sh
 
 ------------------------------------------------------------------------------------------------------------
-Script modification
-
-change the wallet address to your address in file run-xmrig.sh
-
-and change coin name
-
-for scripts persistent mode press
-
-ctrl+B and then release them and press D
