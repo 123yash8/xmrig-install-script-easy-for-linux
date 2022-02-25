@@ -22,6 +22,6 @@ cd xmrig-install-script-easy-for-linux
 
 chmod +x *
 
-./run-xmrig.sh
+bash run-xmrig
 
 ------------------------------------------------------------------------------------------------------------
