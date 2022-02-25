@@ -4,7 +4,7 @@ easily install xmrig and run it without hassle
 
 Sudo privilages (or Root) needed
 
-please change The wallet address and token symbol in run-xmrig.sh
+Put your own wallet address
 
 give stars if it helps.
 
